@@ -1,4 +1,7 @@
-# Falentin-Networks
+# Code of Conduct 
+### social.v4jp.com by FALITIN-Networks
+
+
 
 1. Be respectful
 a. Respect everyone and their opinions, regardless of appearance
